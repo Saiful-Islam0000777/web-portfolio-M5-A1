@@ -66,11 +66,16 @@ p{
     width: 100%;
 }
 .section{
-    height: 500px;
-    padding-bottom: 100px;
+    height: 652px;
+    padding-bottom: 2px;
 }
 
 #banner-1{
     background-image: url("image/b1.png");
     background-repeat: no-repeat;
+}
+#banner-2{
+    background-image: url("image/b2.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
