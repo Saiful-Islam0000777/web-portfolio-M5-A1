@@ -139,7 +139,7 @@ p{
     width: 500px;
     height: 200px;
     
-    
+    padding-bottom: 10px;
 }
 .footer{
     background-color: white;
@@ -150,10 +150,17 @@ p{
 .footer img{
     width: 100%;
 }
-.footer h3{
-    color: rgb(60, 216, 94);
+.footsection{
+    height: 200px;
+    padding-bottom: 20px;
+
+    padding-top: 20%;
+   
+}
+.footsection h3{   
     font-family: 'Bebas Neue', cursive;
 
+    color: #696871;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -161,19 +168,16 @@ p{
 
     text-align: center;
 }
-.footer h2{
+.footsection h2{
     font-family: 'Roboto', sans-serif;
 
+    color:#363958;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 42px;
 
-    
-}
-.footsection{
-    height: 200px;
-    padding-bottom: 20px;
+    text-align: center;    
 }
 
 
@@ -199,6 +203,6 @@ p{
 
 }
 #footeralign{
-    padding-left: 600px  ;
+    padding-left: 580px  ;
     padding-right: 300px;
 }
